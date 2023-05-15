@@ -2,7 +2,7 @@
     <div>
       <h1>New About</h1>
       <p>Welcome to the About page111111!</p>
-       <p> test pull git nhe!!! </p>
+       <p> test pull git nhe!!! tui k biết gì đâu</p>
     </div>
   </template>
   
