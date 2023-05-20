@@ -13,7 +13,8 @@
 
         </div>
         <p>resolve conflict 1</p>
-       
+        <div> cherry pick</div>
+
     </div>
 </template>
 <script>
