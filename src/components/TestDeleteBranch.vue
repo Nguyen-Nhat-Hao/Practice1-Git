@@ -6,6 +6,7 @@
             <p> i number one</p>
 
         </div>
+        <p>resolve conflict 1</p>
     </div>
 </template>
 <script>
