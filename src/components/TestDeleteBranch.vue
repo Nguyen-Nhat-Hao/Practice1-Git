@@ -14,7 +14,7 @@
         </div>
         <p>resolve conflict 1</p>
         <div> cherry pick</div>
-
+        <p> no conflict</p>
     </div>
 </template>
 <script>
