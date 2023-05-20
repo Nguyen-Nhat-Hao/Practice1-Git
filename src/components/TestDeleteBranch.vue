@@ -1,5 +1,11 @@
 <template>
     <div>
+        <ul>
+            <li>h1</li>
+            <li>h2</li>
+            <li>h3</li>
+        </ul>
+        
         <h1>marge code từ issue1-branch đến nhánh main</h1>
         <div>
             <h3>header 1</h3>
@@ -7,6 +13,7 @@
 
         </div>
         <p>resolve conflict 1</p>
+       
     </div>
 </template>
 <script>
